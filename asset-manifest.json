@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roseltorg-test/static/css/main.ddcd2f05.chunk.css",
+    "main.js": "/roseltorg-test/static/js/main.95f43e22.chunk.js",
+    "main.js.map": "/roseltorg-test/static/js/main.95f43e22.chunk.js.map",
+    "runtime-main.js": "/roseltorg-test/static/js/runtime-main.fe5ad96e.js",
+    "runtime-main.js.map": "/roseltorg-test/static/js/runtime-main.fe5ad96e.js.map",
+    "static/js/2.bd725662.chunk.js": "/roseltorg-test/static/js/2.bd725662.chunk.js",
+    "static/js/2.bd725662.chunk.js.map": "/roseltorg-test/static/js/2.bd725662.chunk.js.map",
+    "static/js/3.8a081443.chunk.js": "/roseltorg-test/static/js/3.8a081443.chunk.js",
+    "static/js/3.8a081443.chunk.js.map": "/roseltorg-test/static/js/3.8a081443.chunk.js.map",
+    "index.html": "/roseltorg-test/index.html",
+    "static/css/main.ddcd2f05.chunk.css.map": "/roseltorg-test/static/css/main.ddcd2f05.chunk.css.map",
+    "static/js/2.bd725662.chunk.js.LICENSE.txt": "/roseltorg-test/static/js/2.bd725662.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe5ad96e.js",
+    "static/js/2.bd725662.chunk.js",
+    "static/css/main.ddcd2f05.chunk.css",
+    "static/js/main.95f43e22.chunk.js"
+  ]
+}
