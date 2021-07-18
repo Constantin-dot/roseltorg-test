@@ -1,0 +1,30 @@
+.input {
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+}
+
+.input__label {
+    margin: 0 20px;
+    padding: 0;
+}
+
+.input__elem {
+    font-size: inherit;
+    box-sizing: border-box;
+    min-width: 100%;
+    margin: 10px 0;
+    padding: 10px 20px;
+    transition: border 0.3s ease;
+    border: #bbc1e1 solid 2px;
+    border-radius: 999px;
+    outline: none;
+}
+
+.input__elem:focus {
+    border-color: cornflowerblue;
+}
+
+.input__elem::placeholder {
+    font-family: "Open Sans", sans-serif;
+    color: #bbc1e1;
+}

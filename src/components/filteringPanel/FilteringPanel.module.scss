@@ -1,0 +1,45 @@
+.wrapper {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.filterBlock {
+    position: relative;
+}
+
+.formBlock {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: rgb(209, 209, 209);
+}
+
+.pathOfBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.subButton {
+    margin: 30px;
+}
+
+.exitButton {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}

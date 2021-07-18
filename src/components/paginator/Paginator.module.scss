@@ -1,0 +1,39 @@
+.paginator {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 80%;
+    min-height: 85px;
+    bottom: 0;
+    font-weight: 600;
+
+    .leftBlock {
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .rightBlock {
+        width: 40%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        input {
+            height: 25px;
+            width: 60px;
+            padding: 0 8px;
+        }
+
+        .button {
+            width: 30px;
+            height: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 5px;
+        }
+    }
+}

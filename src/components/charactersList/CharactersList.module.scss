@@ -1,0 +1,21 @@
+.listBlock {
+    width: 95%;
+    top: 85px;
+    margin-bottom: 85px;
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.listItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listItemAvatar {
+    overflow: inherit;
+}
+
+.listItemText {
+    display: "inline";
+}

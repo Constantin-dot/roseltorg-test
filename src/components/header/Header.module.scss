@@ -1,0 +1,39 @@
+.headBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+    min-height: 85px;
+    top: 0;
+
+    .toolbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 90%;
+    }
+
+    .header {
+        margin-left: 10px;
+        font-size: 72px;
+        line-height: 63px;
+        font-weight: 700;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .buttonE {
+        position: absolute;
+        right: 30px;
+        top: 30px;
+        font-size: 30px;
+        border-radius: 3px;
+        font-weight: bold;
+        background-color: #373737;
+        color: #ffffff;
+        border: none;
+        cursor: pointer;
+        z-index: 1;
+    }
+}
